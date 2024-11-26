@@ -18,7 +18,7 @@ export function Header() {
         <div className="flex items-center gap-x-3 pb-7 pl-4 pt-8">
           <Image src="/images/boy.svg" width={40} height={40} alt="boy" />
           <h1 className="text-2xl font-extrabold tracking-wide text-green-600">
-            Bahasa
+            Phaasa
           </h1>
         </div>
         <ClerkLoading>
