@@ -3,24 +3,16 @@ import Image from "next/image";
 
 const FLAGS = [
   {
-    flag: "images/flags/hr.svg",
-    language: "Croatian",
+    flag: "images/flags/la.svg",
+    language: "Lao",
   },
   {
-    flag: "images/flags/es.svg",
-    language: "Spanish",
+    flag: "images/flags/khm.svg",
+    language: "Khmer",
   },
   {
-    flag: "images/flags/fr.svg",
-    language: "French",
-  },
-  {
-    flag: "images/flags/it.svg",
-    language: "Italian",
-  },
-  {
-    flag: "images/flags/jp.svg",
-    language: "Japanese",
+    flag: "images/flags/th.svg",
+    language: "Thaï",
   },
 ];
 
